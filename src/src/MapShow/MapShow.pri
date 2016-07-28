@@ -1,0 +1,4 @@
+
+#HEADERS +=
+
+SOURCES += MapShow.cpp
